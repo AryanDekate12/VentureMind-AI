@@ -100,13 +100,9 @@ The dashboard will automatically open in your browser.
 
 # 📸 Demo
 
-Place your demo video or GIF inside the **assets folder**
 
-assets/demo.gif
+https://github.com/user-attachments/assets/23e7949f-8160-4720-9241-c73c6c78d532
 
-Then it will display in README.
-
-![Demo](assets/demo.gif)
 
 ---
 
